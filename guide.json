@@ -20,7 +20,7 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "TOCA LIFE WORLD TIPS : PART 1",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
         "color": "#000000",
         "text_size": "25",
@@ -28,12 +28,13 @@
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
+        "text": "TOCA LIFE WORLD is an app where you can create your own world with your own unique characters to create a cool story when you first start you'll only have this map available with only these places if you want to get these other places it does cost actual money"
+        ,
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "The Old 2",
+        "title": "TOCA LIFE WORLD TIPS : PART 2",
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -41,12 +42,12 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "each place with a different cost there are two ways to get these places the first way is by using the tucker app itself on the left side of your screen there is a shopping cart icon when you click on that it takes you to the choco store",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
+        "title": "TOCA LIFE WORLD TIPS : PART 3 ",
         "image": "https://usercontent1.hubstatic.com/6961608.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -54,12 +55,12 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "here is where you can buy any place you would like if you're under the age of 15 please make sure your parents know you're buying this because you can be wasting their money",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Dead Space Android",
+        "title": "TOCA LIFE WORLD TIPS : PART 4",
         "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -67,12 +68,14 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "then just click the buy symbol and you'll be able to buy it another way you can get these places is by going to the app store all you need to do is type up tocco life world and a bunch of cool apps for it will come up so those are the two ways you can buy it if any of these apps say it comes for free then probably don't buy it because it will be a scam and you can actually get in trouble for it",
+        
+        
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Bloody Mary",
+        "title": "TOCA LIFE WORLD TIPS : PART 5",
         "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -80,12 +83,12 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "wake up with your money i don't know how it feels if everything is everywhere and you've lost something you can easily go back to the home page and reset your island this makes everything go back to where it was in the post office every day you get a free gift from it when you go there you can click on the present symbol and you can get a new unique present every day this is free by the way",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
+        "title": "TOCA LIFE WORLD TIPS : PART 6",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -93,7 +96,21 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "in toca there are a lot of secrets that you can find out by interacting with certain things in the game some secrets can be cool new hiding spots or cool new items that you can get here's an example has already created characters that you can use to create your own unique characters",
+        "isNative": false,
+		"background": "#00FF00"
+      }
+      ,
+      {
+        "title": "TOCA LIFE WORLD TIPS : PART 7",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "on the right there is a person logo just click on that and you can make whatever you want when you first start you only can create three characters and you don't have much hairs or clothing if you want to create more people and have more options go to the shopping cart  and go to the creators district and select character creator",
         "isNative": false,
 		"background": "#00FF00"
       }
