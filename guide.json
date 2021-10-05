@@ -9,7 +9,8 @@
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 	      
 	"NativeApplovin":"08a0b1502c1ff6a4",
-	"BannerApplovin":"4282fc34708594b6"
+	"BannerApplovin":"4282fc34708594b6",
+	"InterstitialApplovin":"e01a0437ea117f5b"
       },
 
     "items": [
