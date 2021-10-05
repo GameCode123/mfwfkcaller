@@ -7,14 +7,7 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-		
-		"mopubBanner" : "33b8011cf55c44ffaf14722a68bc7696",
-		"mopubInter" : "220f22810cd14766a2543e40bfefc86d",
-		"mopubNative" : "11a17b188668469fb0412708c3d16813",
-
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerURL" : "https://www.google.com"
+	"NativeApplovin":"08a0b1502c1ff6a4"
 		
       },
 
