@@ -12,7 +12,10 @@
 	"BannerApplovin":"4282fc34708594b6",
 	"InterstitialApplovin":"e01a0437ea117f5b"
       },
-
+      "Links":{
+        "PrivacyPolicy":"https://www.google.com",
+        "PackageName":"io.Brodi.tocalifeworldtips"
+      },
     "items": [
       {
         "title": "TOCA LIFE WORLD TIPS : PART 1",
